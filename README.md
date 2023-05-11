@@ -1,5 +1,3 @@
-Aqui está a lista enumerada com as respostas às suas perguntas:
-
 1. O C# é uma linguagem compilada, tipada e gerenciada, o que isso significa?
    - Compilada: O código-fonte em C# é compilado para um formato binário executável antes de ser executado.
    - Tipada: C# é uma linguagem com tipagem estática, o que significa que as variáveis têm tipos definidos em tempo de compilação.
@@ -33,8 +31,3 @@ Aqui está a lista enumerada com as respostas às suas perguntas:
 8. O que é o .NET Standard?
    - O .NET Standard é uma especificação que define uma API comum para todas as implementações do .NET.
    - Ele permite que bibliotecas sejam compartilhadas entre diferentes implementações do .NET, como o .NET Framework, o .NET Core e o Xamarin.
-
-9. Explique o que é versão semântica.
-   - A versão semântica é um sistema de numeração de versão que segue um padrão específico.
-   - Normalmente, é composto por três partes principais: Major (maior), Minor (menor) e Patch (correção).
-   - Por exemplo, a versão
