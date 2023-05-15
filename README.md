@@ -40,11 +40,22 @@
 
     - O número PATCH é incrementado quando são feitas correções de bugs ou pequenas alterações que não afetam a compatibilidade.
 
-
 10. O que significa LTS na versão do software?
+
+    LTS significa Long-Term Support (Suporte de Longo Prazo). É usado para indicar uma versão do software que receberá suporte e atualizações de segurança por um período estendido, geralmente vários anos. Essas versões são recomendadas para uso em ambientes de produção, onde a estabilidade e a confiabilidade são prioritárias em relação às novas funcionalidades.
+
 11. O que é um Runtime?
+
+    Um Runtime (Ambiente de Execução) é uma camada de software responsável por executar e gerenciar a execução de aplicativos. Ele fornece um conjunto de recursos essenciais, como alocação de memória, gerenciamento de recursos, execução de código intermediário, coleta de lixo e tratamento de exceções. No contexto do .NET, o Common Language Runtime (CLR) é o runtime principal que executa aplicativos .NET.
+
 12. O que é um SDK?
+
+    SDK (Software Development Kit) é um conjunto de ferramentas, bibliotecas e documentação fornecidas para facilitar o desenvolvimento de software para uma plataforma específica. Em relação ao .NET, o SDK do .NET fornece as ferramentas necessárias para desenvolver, depurar e publicar aplicativos .NET. Ele inclui compiladores, bibliotecas de classes, utilitários de linha de comando e outros recursos relacionados ao desenvolvimento.
+
 13. O que é um CLI?
+
+    CLI (Command-Line Interface) é uma interface de linha de comando que permite interagir com um sistema operacional ou um software por meio de comandos digitados em um terminal ou prompt de comando. No contexto do .NET, a CLI do .NET (também conhecida como dotnet CLI) é uma interface de linha de comando fornecida pelo SDK do .NET. Ela permite executar comandos relacionados ao desenvolvimento .NET, como criar projetos, compilar código, executar testes e publicar aplicativos. A CLI do .NET é multiplataforma e suporta várias tarefas de desenvolvimento.
+
 14. Cite 3 tipos de projetos que temos no .NET
 15. O que é uma Solution?
 16. Qual comando para executar uma aplicação .NET?
