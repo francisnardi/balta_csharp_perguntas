@@ -4,7 +4,7 @@
 
 2. O que diferencia uma linguagem compilada de uma interpretada?
 
-    
+    Uma linguagem compilada é traduzida para código de máquina executável antes da execução do programa. O código resultante da compilação é geralmente específico para a plataforma em que será executado. Por outro lado, uma linguagem interpretada é executada por meio de um interpretador em tempo de execução. O código-fonte é lido e traduzido para instruções executáveis linha por linha durante a execução. Isso torna as linguagens interpretadas geralmente mais portáteis, pois o interpretador pode ser executado em diferentes plataformas.
 
 3. Explique como o C# funciona
 4. O que é o CLR?
