@@ -1,8 +1,11 @@
 1. O C# é uma linguagem compilada, tipada e gerenciada, o que isto significa?
 
-        O C# é uma linguagem compilada, tipada e gerenciada. Isso significa que o código-fonte escrito em C# é traduzido para código de máquina executável antes da execução do programa. A tipagem significa que todas as variáveis devem ter um tipo definido e verificado em tempo de compilação. A gerência significa que o ambiente de execução (como o CLR do .NET) gerencia automaticamente a alocação e desalocação de memória, coleta de lixo e outras tarefas de gerenciamento, facilitando o desenvolvimento e aumentando a segurança.
+    O C# é uma linguagem compilada, tipada e gerenciada. Isso significa que o código-fonte escrito em C# é traduzido para código de máquina executável antes da execução do programa. A tipagem significa que todas as variáveis devem ter um tipo definido e verificado em tempo de compilação. A gerência significa que o ambiente de execução (como o CLR do .NET) gerencia automaticamente a alocação e desalocação de memória, coleta de lixo e outras tarefas de gerenciamento, facilitando o desenvolvimento e aumentando a segurança.
 
 2. O que diferencia uma linguagem compilada de uma interpretada?
+
+    
+
 3. Explique como o C# funciona
 4. O que é o CLR?
 5. O que é IL?
