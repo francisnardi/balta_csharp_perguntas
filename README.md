@@ -57,6 +57,15 @@
     CLI (Command-Line Interface) é uma interface de linha de comando que permite interagir com um sistema operacional ou um software por meio de comandos digitados em um terminal ou prompt de comando. No contexto do .NET, a CLI do .NET (também conhecida como dotnet CLI) é uma interface de linha de comando fornecida pelo SDK do .NET. Ela permite executar comandos relacionados ao desenvolvimento .NET, como criar projetos, compilar código, executar testes e publicar aplicativos. A CLI do .NET é multiplataforma e suporta várias tarefas de desenvolvimento.
 
 14. Cite 3 tipos de projetos que temos no .NET
+
+    Alguns tipos de projetos que podemos encontrar no .NET são:
+
+    - Console App: Um projeto de aplicativo de console, que permite a criação de aplicativos executados em um prompt de comando.
+    
+    - Web App: Um projeto de aplicativo da web, que permite a criação de aplicativos web utilizando frameworks como ASP.NET.
+    
+    - Class Library: Um projeto de biblioteca de classes, que é utilizado para criar bibliotecas reutilizáveis de código.
+
 15. O que é uma Solution?
 16. Qual comando para executar uma aplicação .NET?
 17. Qual comando para compilar uma aplicação .NET?
