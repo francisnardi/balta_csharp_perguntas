@@ -19,9 +19,28 @@
     IL (Intermediate Language) é uma linguagem de programação de nível baixo que é compilada a partir do código-fonte em C# (ou outras linguagens .NET). É uma representação independente de plataforma do código-fonte que é executada no CLR. O código IL é convertido em código de máquina específico para a plataforma em tempo de execução, o que permite que os programas .NET sejam executados em diferentes sistemas operacionais e arquiteturas de hardware.
 
 6. O que é um Framework?
+
+    Um framework é um conjunto de bibliotecas, ferramentas e padrões que fornecem uma estrutura para desenvolver aplicativos. Ele fornece um conjunto de funcionalidades comuns que podem ser reutilizadas em diferentes projetos, acelerando o desenvolvimento e fornecendo uma base sólida para construir aplicativos. No caso do .NET, o framework .NET é uma plataforma de desenvolvimento que inclui o CLR, bibliotecas de classes, ferramentas de desenvolvimento e muito mais.
+
 7. O que é o .NET?
+
+    O .NET é uma plataforma de desenvolvimento criada pela Microsoft que permite desenvolver e executar aplicativos em uma variedade de dispositivos e sistemas operacionais. Ele inclui o Common Language Runtime (CLR), bibliotecas de classes, linguagens de programação (como C# e VB.NET), ferramentas de desenvolvimento e um conjunto de tecnologias que facilitam a criação de aplicativos de alto desempenho, seguros e interoperáveis.
+
 8. O que é o .NET Standard?
-9. Explique o que é versão semântica
+
+    O .NET Standard é uma especificação que define um conjunto de APIs (Application Programming Interfaces) comuns disponíveis em diferentes implementações do .NET, como .NET Framework, .NET Core e Xamarin. O objetivo do .NET Standard é fornecer uma base consistente de funcionalidades que podem ser usadas em diferentes plataformas .NET, permitindo que as bibliotecas sejam compartilhadas e reutilizadas entre diferentes projetos e implementações do .NET.
+
+9. Explique o que é versão semântica.
+
+    - A versão semântica é uma convenção de nomenclatura usada para indicar as versões de um software de maneira padronizada e significativa. Ela consiste em três números separados por pontos: MAJOR.MINOR.PATCH.
+
+    - O número MAJOR é incrementado quando há mudanças incompatíveis na API.
+
+    - O número MINOR é incrementado quando funcionalidades são adicionadas de forma retrocompatível.
+
+    - O número PATCH é incrementado quando são feitas correções de bugs ou pequenas alterações que não afetam a compatibilidade.
+
+
 10. O que significa LTS na versão do software?
 11. O que é um Runtime?
 12. O que é um SDK?
