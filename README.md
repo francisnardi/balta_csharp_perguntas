@@ -92,7 +92,17 @@
 
 21. Como executamos uma aplicação .NET em modo Debug?
 
-	
+	Para executar uma aplicação .NET em modo Debug, você pode seguir os seguintes passos:
+
+    - Abra o projeto no Visual Studio.
+
+    - Certifique-se de que o projeto está configurado para ser compilado em modo de depuração (Debug mode). Você pode verificar isso no menu "Build" -> "Configuration Manager" e certificar-se de que a configuração ativa é "Debug".
+
+    - Defina os pontos de interrupção (breakpoints) no código onde você deseja pausar a execução para fins de depuração.
+
+    - Pressione F5 ou escolha "Debug" -> "Start Debugging" no menu para iniciar a depuração.
+
+    - O Visual Studio será iniciado em modo de depuração e a execução do programa será pausada nos pontos de interrupção definidos. Você pode usar as ferramentas de depuração do Visual Studio para examinar variáveis, acompanhar o fluxo do programa e identificar erros.
 
 22. Qual a finalidade da pasta Properties?
 
