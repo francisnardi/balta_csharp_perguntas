@@ -6,9 +6,18 @@
 
     Uma linguagem compilada é traduzida para código de máquina executável antes da execução do programa. O código resultante da compilação é geralmente específico para a plataforma em que será executado. Por outro lado, uma linguagem interpretada é executada por meio de um interpretador em tempo de execução. O código-fonte é lido e traduzido para instruções executáveis linha por linha durante a execução. Isso torna as linguagens interpretadas geralmente mais portáteis, pois o interpretador pode ser executado em diferentes plataformas.
 
-3. Explique como o C# funciona
+3. Explique como o C# funciona.
+
+    O C# é uma linguagem de programação moderna desenvolvida pela Microsoft. Ela faz parte da plataforma .NET e é projetada para desenvolver uma variedade de aplicativos, desde aplicativos de desktop até aplicativos web e móveis. O C# é uma linguagem orientada a objetos, com suporte a recursos como herança, polimorfismo, encapsulamento e muito mais. Os programas em C# são compilados em uma linguagem intermediária chamada IL (Intermediate Language) que é executada no Common Language Runtime (CLR) do .NET.
+
 4. O que é o CLR?
+
+    O CLR (Common Language Runtime) é a parte central do ambiente de execução do .NET. É responsável por fornecer recursos avançados de execução, gerenciamento de memória, segurança, tratamento de exceções, coleta de lixo e suporte a várias linguagens de programação que podem ser compiladas para o CLR. O CLR garante a execução segura e confiável de aplicativos .NET.
+
 5. O que é IL?
+
+    IL (Intermediate Language) é uma linguagem de programação de nível baixo que é compilada a partir do código-fonte em C# (ou outras linguagens .NET). É uma representação independente de plataforma do código-fonte que é executada no CLR. O código IL é convertido em código de máquina específico para a plataforma em tempo de execução, o que permite que os programas .NET sejam executados em diferentes sistemas operacionais e arquiteturas de hardware.
+
 6. O que é um Framework?
 7. O que é o .NET?
 8. O que é o .NET Standard?
