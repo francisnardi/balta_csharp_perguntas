@@ -106,7 +106,15 @@
 
 22. Qual a finalidade da pasta Properties?
 
-	
+	A pasta "Properties" em um projeto .NET tem a finalidade de armazenar arquivos relacionados às configurações e propriedades do projeto. Esses arquivos podem incluir:
+
+    - AssemblyInfo.cs: Um arquivo que contém informações sobre a versão, título, descrição, informações de copyright e outras propriedades do assembly.
+
+    - Settings.settings: Um arquivo que pode ser usado para definir configurações personalizadas para o projeto, como configurações de aplicativo.
+
+    - Resources.resx: Um arquivo que pode ser usado para armazenar recursos estáticos, como strings localizadas, imagens ou outros arquivos de recursos.
+
+    Esses arquivos contidos na pasta "Properties" são usados para configurar e personalizar o comportamento do projeto durante a compilação e execução.
 
 23. Qual a finalidade das pastas Bin e Obj?
 
